@@ -1,0 +1,28 @@
+h1 {
+
+	color: red;
+	font-family: century;
+}
+
+body {
+margin:0;
+padding:0;
+	background-color: #dedada;
+	text-align: center;
+}
+
+p {
+
+	font-family: arial;
+}
+
+ul {
+
+	list-style-position: inside;
+}
+
+
+li {
+
+	display: list-item;
+}
